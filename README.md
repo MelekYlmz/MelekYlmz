@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Melek
 - 👀 I’m studying Computer Engineering ...
-- 🌱 I’m currently learning java,html,c# ...
-- 📫 How to reach me melek.ylmaaz.3@gmail.com
-  
+- 
 
 
 <!---
